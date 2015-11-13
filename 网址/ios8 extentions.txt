@@ -1,3 +1,6 @@
 
  iOS8中的Safari Action Extension
  http://ju.outofmemory.cn/entry/157884
+
+Surfin' Safari 拦截规则
+https://www.webkit.org/blog/3476/content-blockers-first-look/
